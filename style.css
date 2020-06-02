@@ -1,26 +1,33 @@
 
 body{
-  background: rgb(245,245,245);
-  color: green;
+  background: gray;
+  color: black;
   font-size: 25px;
   font-family: Helvetica;
 }
 h1{
   font-family: Courier;
-  color: red;
+  color: black;
   font-weight: lighter;
   font-size: 10px;
 }
 h2 {
-  font-family: Courier;
-  color: pink;
+  font-family: Roboto;
+  color: black;
   font-weight: lighter;
   font-size: 8px;
 }
+
 a {
   color: yellow;
 }
 a:hover {
   text-decoration: none;
-  color: purple;
+  color: blue;
+}
+
+.blue-title{
+  color: pink;
+  font-size: 20px;
+  font-family: Roboto;
 }
